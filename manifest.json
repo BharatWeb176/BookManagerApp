@@ -1,18 +1,18 @@
 {
   "name": "Book Manager PWA",
   "short_name": "BookManager",
-  "start_url": "/index.html",
+  "start_url": "/BookManagerApp/index.html",
   "display": "standalone",
   "background_color": "#f4f4f4",
   "theme_color": "#0078D7",
   "icons": [
     {
-      "src": "icons/icon2.png",
+      "src": "/BookManagerApp/icons/icon2.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "icons/icon.png",
+      "src": "/BookManagerApp/icons/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
