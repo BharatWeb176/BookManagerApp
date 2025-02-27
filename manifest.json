@@ -1,18 +1,19 @@
 {
-  "name": "Book Manager PWA",
+  "name": "Book Manager App PWA",
   "short_name": "BookManager",
-  "start_url": "/BookManagerApp/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f4f4f4",
+  "background_color": "#ffffff",
   "theme_color": "#0078D7",
+  "description": "Keep track of all the books you read and your favorite ones.",
   "icons": [
     {
-      "src": "/BookManagerApp/icons/icon2.png",
+      "src": "icons/icon2.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/BookManagerApp/icons/icon.png",
+      "src": "icons/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
